@@ -1,3 +1,3 @@
 <script>
-consorle.log("test");
+console.log("test");
 </script>
